@@ -39,7 +39,7 @@ https://github.com/wilmadsy/calcu_flutter
 
 * Berbasis Json Data Untuk Hewan2nya
 
-## 💡 Mengap Ini Perlu?
+## 💡 MengapA Ini Perlu?
 
 dimana kita belajar load data dan penggunaan 2 page untuk fitur app kita.
 

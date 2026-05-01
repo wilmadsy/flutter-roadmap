@@ -1,6 +1,6 @@
 # 🐾 flutter-roadmap
 
-Repository ini berisi roadmap belajar Flutter dari nol hingga mahir yang disusun secara bertahap (beginner, intermediate, advanced). Setiap level dilengkapi dengan penjelasan singkat dan project nyata untuk membantu memahami konsep secara praktis dan terstruktur.
+Repository ini berisi roadmap project nyata Flutter yang disusun secara bertahap (beginner, intermediate, advanced). Setiap level dilengkapi dengan project nyata dan penjelasan singkat untuk membantu memahami konsep secara praktis dan terstruktur.
 
 ## 🚀 Levels
 
@@ -9,175 +9,59 @@ Repository ini berisi roadmap belajar Flutter dari nol hingga mahir yang disusun
 * Learn basic Flutter structure
 * Display simple UI
 * Load static data
-
-👉 [Go to Beginner](./beginner/step-1.md)
-
----
+* CRUD
 
 ### 🟡 Intermediate
 
-* Work with JSON data
-* Build dynamic UI
-* Navigation between pages
-
-👉 [Go to Intermediate](./intermediate/step-1.md)
-
----
+* Ongoing
 
 ### 🔴 Advanced
 
-* Improve UI/UX
-* Add detailed pages
-* Optimize app performance
+* Ongoing
+---
 
-👉 [Go to Advanced](./advanced/step-1.md)
+
+### 🟢 BEGINNER
+
+# > B.Project 1: Calculator Project
+
+## 💡 Mengapa Ini Perlu?
+
+Ini Merupakan Project Yang Memfokuskan Dalam Penggunaan 1 page Dengan Baik.
+
+## 🔗 Project Link
+
+https://github.com/wilmadsy/calcu_flutter
 
 ---
 
-## 📱 Final Project
+# > B.Project 2: Animal App Project
 
-Animal App that displays animal list, images, and detailed descriptions.
+* Berbasis Json Data Untuk Hewan2nya
 
-🟢 BEGINNER
+## 💡 Mengap Ini Perlu?
 
-# Step 1: Setup Flutter Project
-
-## ✅ What I did
-
-* Installed Flutter SDK
-* Created a new Flutter project
-* Ran default app
-
-## 💡 Why this step is important
-
-This step ensures the development environment is ready before building any application.
+dimana kita belajar load data dan penggunaan 2 page untuk fitur app kita.
 
 ## 🔗 Project Link
 
-https://github.com/USERNAME/animal_app
+https://github.com/wilmadsy/animal_app
 
-# Step 2: Understanding Basic UI
+---
 
-## ✅ What I did
+# > B.Project 3: ..............
 
-* Learned Scaffold, AppBar, Text
-* Modified default UI
+* Ongoing........
 
-## 💡 Why this step is important
+---
 
-Understanding basic UI components is essential to build any Flutter app interface.
+### 🟡 INTERMEDIATE
 
-## 🔗 Project Link
+* ONGOING........
 
-https://github.com/USERNAME/animal_app
+---
 
-# Step 3: Display Simple List
+### 🔴 ADVANCED
 
-## ✅ What I did
+* ONGOING.......
 
-* Created simple list using ListView
-* Display static data
-
-## 💡 Why this step is important
-
-Lists are fundamental in mobile apps to show multiple data.
-
-## 🔗 Project Link
-
-https://github.com/USERNAME/animal_app
-
-🟡 INTERMEDIATE
-
-# Step 1: Load JSON Data
-
-## ✅ What I did
-
-* Created JSON file
-* Loaded JSON using rootBundle
-* Parsed using dart:convert
-
-## 💡 Why this step is important
-
-Real apps use data, not hardcoded values.
-
-## 🔗 Project Link
-
-https://github.com/USERNAME/animal_app
-
-# Step 2: Dynamic List with FutureBuilder
-
-## ✅ What I did
-
-* Used FutureBuilder
-* Display data dynamically
-
-## 💡 Why this step is important
-
-Helps handle async data like APIs or files.
-
-## 🔗 Project Link
-
-https://github.com/USERNAME/animal_app
-
-# Step 3: Navigation to Detail Page
-
-## ✅ What I did
-
-* Added DetailPage
-* Used Navigator.push
-
-## 💡 Why this step is important
-
-Navigation is core in mobile apps.
-
-## 🔗 Project Link
-
-https://github.com/USERNAME/animal_app
-
-🔴 ADVANCED
-
-# Step 1: Improve UI with Card Design
-
-## ✅ What I did
-
-* Used Card widget
-* Added rounded corners & elevation
-
-## 💡 Why this step is important
-
-Better UI improves user experience.
-
-## 🔗 Project Link
-
-https://github.com/USERNAME/animal_app
-
-# Step 2: Add Short & Long Description
-
-## ✅ What I did
-
-* Added short_desc in list
-* Added long_desc in detail page
-
-## 💡 Why this step is important
-
-Improves content structure and readability.
-
-## 🔗 Project Link
-
-https://github.com/USERNAME/animal_app
-
-# Step 3: Optimize UI & UX
-
-## ✅ What I did
-
-* Improved layout spacing
-* Added image styling
-* Fixed loading behavior
-
-## 💡 Why this step is important
-
-Optimization makes the app feel smooth and professional.
-
-## 🔗 Project Link
-
-https://github.com/USERNAME/animal_app

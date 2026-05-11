@@ -41,7 +41,7 @@ https://github.com/wilmadsy/calcu_flutter
 
 ## 💡 Mengapa Ini Perlu?
 
-dimana kita belajar load data dan penggunaan 2 page untuk fitur app kita.
+Dimana Kita Belajar Load Data Dan Penggunaan 2 Page Untuk Fitur App Kita.
 
 ## 🔗 Project Link
 
@@ -49,9 +49,19 @@ https://github.com/wilmadsy/animal_app
 
 ---
 
-# > B.Project 3: ..............
+# > B.Project 3: My Notes App
 
-* Ongoing........
+# Di Sebut Juga To Do List
+
+* Berbasis SQLite Sebagai Databasenya
+
+## 💡 Mengapa Ini Perlu?
+
+Yap, Di Sini Kita Belajar Konsep CRUD (Create, Read, Update, Delete), menyimpan data secara permanen, relasi antar tabel (many-to-many).
+
+## 🔗 Project Link
+
+https://github.com/wilmadsy/my_notes_app
 
 ---
 

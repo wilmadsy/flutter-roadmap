@@ -13,7 +13,8 @@ Repository ini berisi roadmap project nyata Flutter yang disusun secara bertahap
 
 ### 🟡 Intermediate
 
-* Ongoing
+* learn authentication
+* learn to use API
 
 ### 🔴 Advanced
 
@@ -67,7 +68,17 @@ https://github.com/wilmadsy/my_notes_app
 
 ### 🟡 INTERMEDIATE
 
-* ONGOING........
+# > i.Project 1: mynote pro Project
+
+## 💡 Mengapa Ini Perlu?
+
+Ini Merupakan next level dari my notes app sebelumnya dengan tambahan fitur authentication & database online berbasis [firebase*](http://firebase.google.com/).
+
+## 🔗 Project Link
+
+https://github.com/wilmadsy/mynote_pro
+
+---
 
 ---
 

@@ -72,13 +72,11 @@ https://github.com/wilmadsy/my_notes_app
 
 ## 💡 Mengapa Ini Perlu?
 
-Ini Merupakan next level dari my notes app sebelumnya dengan tambahan fitur authentication & database online berbasis [firebase*](http://firebase.google.com/).
+Ini Merupakan next level dari my notes app sebelumnya dengan tambahan fitur authentication & database online berbasis [firebase](http://firebase.google.com/).
 
 ## 🔗 Project Link
 
 https://github.com/wilmadsy/mynote_pro
-
----
 
 ---
 
